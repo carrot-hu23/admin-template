@@ -1,0 +1,7 @@
+.my-prefix-layout .my-prefix-sider .ant-layout-sider-children {
+    border-inline-end: 0;
+}
+
+.ant-menu-dark .ant-menu-item-selected, .ant-menu-dark>.ant-menu .ant-menu-item-selected {
+    background-color: black;
+}
